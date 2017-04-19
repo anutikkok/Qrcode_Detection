@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QrcodeDetection</string>
+    <string name="history">Просмотреть историю</string>
+    <string name="history_del">Очистить историю</string>
+</resources>
